@@ -1,1 +1,1 @@
-clock
+Clock in Angular
